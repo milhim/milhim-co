@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> June 4, 2025</p>
+
+  <p>This privacy policy explains how I, Milhim Milhim, handle any information that may be collected by my LinkedIn Developer App.</p>
+
+  <p><strong>Information Collection and Use:</strong>  
+  My application may collect basic public profile information such as your name, email address, and profile picture solely to provide the intended functionality. I do not sell, rent, or misuse this information in any way.</p>
+
+  <p><strong>Data Sharing:</strong>  
+  Any data collected through this application will not be shared with third parties, except as required by law or for security compliance.</p>
+
+  <p><strong>Cookies and Tracking:</strong>  
+  The application does not use cookies or any third-party tracking tools.</p>
+
+  <p><strong>Data Security:</strong>  
+  I use industry-standard security measures to protect your data. However, no method of transmission over the internet or method of electronic storage is 100% secure.</p>
+
+  <p><strong>Your Rights:</strong>  
+  You have the right to access, update, or request deletion of your data at any time. To make such a request, please contact me directly using the email below.</p>
+
+  <p><strong>Contact:</strong>  
+  If you have any questions or concerns about this privacy policy, please feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+
+  <p>This policy may be updated occasionally. Please review it periodically for any changes.</p>
+</body>
+</html>
